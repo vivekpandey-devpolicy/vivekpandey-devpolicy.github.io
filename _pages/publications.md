@@ -17,29 +17,29 @@ author_profile: true
 
 3. Pandey, V., Rathi, A., & Kumar, D. (2023). Governance response during COVID-19 and political affirmative action: Evidence from local governments in India. *Public Administration & Development*, 43(2), 185–195. [https://doi.org/10.1002/pad.2006](https://doi.org/10.1002/pad.2006)
 
-4. Panwar, R., Pandey, V., Suddaby, R., & Vidal, N. G. (2023). Did India's CSR mandate enhance or diminish firm value? *Business & Society*, 62(2), 401–433.
+4. Panwar, R., Pandey, V., Suddaby, R., & Vidal, N. G. (2023). Did India's CSR mandate enhance or diminish firm value? *Business & Society*, 62(2), 401–433. [https://doi.org/10.1177/00076503221085962] (https://doi.org/10.1177/00076503221085962)
 
-5. Pandey, V., Singh, S., & Kumar, D. (2022). COVID-19, information management by local governments, and food consumption. *Food Policy*, 110.
+5. Pandey, V., Singh, S., & Kumar, D. (2022). COVID-19, information management by local governments, and food consumption. *Food Policy*, 110. [https://doi.org/10.1016/j.foodpol.2022.102278] (https://doi.org/10.1016/j.foodpol.2022.102278)
 
-6. Pandey, V. & Gupta, A. (2022). Can multi-sectoral development interventions boost household livelihood and female labour supply? *Feminist Economics*, 28(2), 217-246.
+6. Pandey, V. & Gupta, A. (2022). Can Multi-Sectoral Development Interventions Boost Livelihoods and Women’s Labor Supply? Evidence from NRLM in India *Feminist Economics*, 28(2), 217-246. [https://doi.org/10.1080/13545701.2022.2037684] (https://doi.org/10.1080/13545701.2022.2037684)
 
-7. Pandey, V., Nagarajan, H. K., & Kumar, D. (2021). Impact of gendered participation in market-linked value chains on economic outcomes: Evidence from India. *Food Policy*, 103.
+7. Pandey, V., Nagarajan, H. K., & Kumar, D. (2021). Impact of gendered participation in market-linked value chains on economic outcomes: Evidence from India. *Food Policy*, 103. [https://doi.org/10.1016/j.foodpol.2021.102142] (https://doi.org/10.1016/j.foodpol.2021.102142)
 
-8. Pandey, V., Singh, S., & Unni, J. (2020). Spill-over effects of formal political institutions and development market interventions on women's empowerment: Non-experimental evidence from India. *Feminist Economics*, 26(3), 1–32.
+8. Pandey, V., Singh, S., & Unni, J. (2020). Markets and Spillover Effects of Political Institutions in Promoting Women’s Empowerment: Evidence From India. *Feminist Economics*, 26(3), 1–32. [https://doi.org/10.1080/13545701.2020.1752394] (https://doi.org/10.1080/13545701.2020.1752394)
 
-9. Pandey, V., Vidal, N. G., Panwar, R., & Nafees, L. (2019). Characterisation of sustainability leaders and laggards in the global food industry. *Sustainability*, 11(6).
+9. Pandey, V., Vidal, N. G., Panwar, R., & Nafees, L. (2019). Characterisation of sustainability leaders and laggards in the global food industry. *Sustainability*, 11(6). [https://doi.org/10.3390/su11185072] (https://doi.org/10.3390/su11185072)
 
-10. Singh, S., Pandey, V., & Holvoet, N. (2018). Bridging sustainability and corporate social responsibility: Culture of monitoring and evaluation of CSR initiatives in India. *Sustainability*, 10(5).
+10. Singh, S., Pandey, V., & Holvoet, N. (2018). Bridging sustainability and corporate social responsibility: Culture of monitoring and evaluation of CSR initiatives in India. *Sustainability*, 10(5). [https://doi.org/10.3390/su10072353] (https://doi.org/10.3390/su10072353)
 
 11. Joshi, S., Pandey, V., & Ross, B. (2017). Asymmetry in stock-market reactions to changes in membership of the Dow Jones Sustainability Index. *Journal of Business Inquiry*, 16(2), 98–117.
 
-12. Bose, F., & Pandey, V. (2015). Don't let a serious crisis go to waste: Exploring links between environmental policy-making and environmental mishaps. *Journal of Environmental Economics & Policy*, 4(3), 310–331.
+12. Bose, F., & Pandey, V. (2015). Don't let a serious crisis go to waste: Exploring links between environmental policy-making and environmental mishaps. *Journal of Environmental Economics & Policy*, 4(3), 310–331. [https://doi.org/10.1080/21606544.2015.1023362] (https://doi.org/10.1080/21606544.2015.1023362)
 
 13. Ross, B., & Pandey, V. (2015). Sustainability and firm strategy in U.S. agri-food companies: A critical assessment. *International Food & Agribusiness Management Review*, 18(1), 155–180.
 
 14. Pandey, V., Shanoyan, A., Peterson, C., Ross, B. (2013). Principal–agent governance mechanisms in an emerging biofuels supply chain in the USA. *Asian Journal of Agriculture & Rural Development*, 3(1), 1–12.
 
-15. Deodhar, S. Y., & Pandey, V. (2008). Degree of instant competition: Estimation of market power in India's instant-coffee market. *Indian Economic Review*, 43(2), 199–215.
+15. Deodhar, S. Y., & Pandey, V. (2008). Degree of instant competition: Estimation of market power in India's instant-coffee market. *Indian Economic Review*, 43(2), 199–215. [https://www.jstor.org/stable/29793916] (https://www.jstor.org/stable/29793916)
 
 ## Working Papers
 
