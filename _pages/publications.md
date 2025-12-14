@@ -41,26 +41,26 @@ author_profile: true
 
 15. Deodhar, S. Y., & Pandey, V. (2008). Degree of instant competition: Estimation of market power in India's instant-coffee market. *Indian Economic Review*, 43(2), 199–215. [https://www.jstor.org/stable/29793916](https://www.jstor.org/stable/29793916)
 
-## Working Papers
+## Revision and Work in Progress 
 
-1. Value-Chains, Women's Bargaining Power, and Vulnerability to Food Poverty, with H.K. Nagarajan, H. Singh & D. Kumar. (R&R Completed for *Global Food Security*)
+1. Value-Chains, Women's Bargaining Power, and Vulnerability to Food Poverty, with H.K. Nagarajan, H. Singh & D. Kumar. (Under review, European Review of Agricultural Economics )
 
-2. Decentralized Health Governance, Private Action, and Welfare: Evidence from India, with H.K. Nagarajan, & A. Tagat. (Under Review, *Review of Development Economics*)
+2. Decentralized Health Governance, Private Action, and Welfare: Evidence from India, with H.K. Nagarajan, & A. Tagat. (Revise and Resubmit, *Review of Development Economics*)
 
 3. Autonomy-Supportive Feedback and Household Data Quality: Evidence from a Randomized Field Experiment in India, with Das, D. & E. Kyamba (Under Review, *World Development*)
 
 4. Context Informed Rationality, SHG Platforms, & Health-Seeking Behavior: Evidence from a Peer Counseling Field Experiment in India (Draft Completed)
 
-5. Business Support Centers, Conditional Loan Subsidies, and Micro-enterprise Performance: Leveraging Staggered Rollout and Randomized Rejections of Loan Applications, with Das, D. (Work in Progress)
+5. Business Support Centers, Conditional Loan Subsidies, and Micro-enterprise Performance: Leveraging Staggered Rollout and Randomized Rejections of Loan Applications, with Das, D. (Work-in-Progress)
 
-6. Resilience during Pandemic, Graduation Support, and Enterprise Growth: Evidence from a Quasi-Natural Experiment, with Das, D. (Work in Progress)
+6. Resilience during Pandemic, Graduation Support, and Enterprise Growth: Evidence from a Quasi-Natural Experiment, with Das, D. (Work-in-Progress)
 
-7. Behavioral Ethics, Ethical Dilemma, & Enterprise Performance: Evidence from a Field Experiment in Tamil Nadu, with Das, D. (Work in Progress)
+7. Behavioral Ethics, Ethical Dilemma, & Enterprise Performance: Evidence from a Field Experiment in Tamil Nadu, with Das, D. (Work-in-Progress)
 
-8. Leveraging Right to Information (RTI) Act for Improved Implementation of School Feeding Program, with Bhusare, J. (Work in Progress)
+8. Leveraging Right to Information (RTI) Act for Improved Implementation of School Feeding Program, with Bhusare, J. (Work-in-Progress)
 
-9. Long-term Effects of a multi-sectoral intervention on Household Welfare: Evidence from National Rural Livelihoods Mission, with Kyamba, E. & Singh, H. (Work in Progress)
+9. Long-term Effects of a multi-sectoral intervention on Household Welfare: Evidence from National Rural Livelihoods Mission, with Kyamba, E. & Singh, H. (Work-in-Progress)
 
-10. Long-term Effect of a School Milk Program on the Nutrition Status of Children: Evidence from a Staggered Rollout Design of Market-led Intervention, with Bhusare, J. (Work in Progress)
+10. Long-term Effect of a School Milk Program on the Nutrition Status of Children: Evidence from a Staggered Rollout Design of Market-led Intervention, with Bhusare, J. (Work-in-Progress)
 
-11. Cost-Effective Strategies for Financial Inclusion: Leveraging Social Networks to Scale Up Digital Payment Adoption in Rural India, with Bhusare, J. (Work in Progress)
+11. Cost-Effective Strategies for Financial Inclusion: Leveraging Social Networks to Scale Up Digital Payment Adoption in Rural India, with Bhusare, J. (Work-in-Progress)
