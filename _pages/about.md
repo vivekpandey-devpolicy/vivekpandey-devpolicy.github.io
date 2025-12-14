@@ -20,5 +20,6 @@ He has collaborated with major funding agencies including the World Bank, Bill &
 - Development Economics
 - Livelihoods and Financial Inclusion
 - Health Economics
+- Field Experiment
 - Causal Machine Learning
 - AI for Development
