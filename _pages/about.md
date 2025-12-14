@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Vivek Pandey is a Professor at Indian Institute of Management Ahmedabad. He holds a joint appointments in the Public Systems Group (PSG) and Centre for Management in Agriculture (CMA), IIM Ahmedabd. He completed his doctoral studies in Applied and Agricultural Economics from the Michigan State University. His research centers at the intersection of agriculture, rural development, and development policy, with a particular focus on livelihoods, health, and financial services for ultra-poor. More recently, he has initiated a program of work on AI for Development.
+Vivek Pandey is a Professor at Indian Institute of Management Ahmedabad. He holds a joint appointment in the Public Systems Group (PSG) and Centre for Management in Agriculture (CMA), IIM Ahmedabad. He completed his doctoral studies in Applied and Agricultural Economics from the Michigan State University. His research centers at the intersection of agriculture, rural development, and development policy, with a particular focus on livelihoods, health, and financial services for ultra-poor. More recently, he has initiated a program of work on AI for Development.
 
 Across his research domains, Vivek explores intervention design and optimal policy learning that address persistent misalignments between policy instruments, institutional mechanisms, and private choices. He uses randomized field experiments, causal machine learning, and large panels, to inform both theory and policy. His research has appeared in Food Policy, Business & Society, Feminist Economics, Public Administration & Development, and Marketing Intelligence & Planning.
 
