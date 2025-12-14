@@ -11,7 +11,7 @@ author_profile: true
 
 ## Published Papers
 
-1. Pandey, V., & Kyamba, E. (2025). School Milk Programs and Child Nutrition: Leveraging Local Governments and Markets. *Food Policy*, 135.
+1. Pandey, V., & Kyamba, E. (2025). School Milk Programs and Child Nutrition: Leveraging Local Governments and Markets. *Food Policy*, 135. [https://doi.org/10.1016/j.foodpol.2025.102917](https://doi.org/10.1016/j.foodpol.2025.102917)
 
 2. Modi, P., Pandey, V., & Bhattacharya, A. (2024). The impact of innovation orientation on strategic R&D amidst macroeconomic shocks: An event study approach. *Marketing Intelligence & Planning*, 42(4), 577–596. [https://doi.org/10.1108/MIP-11-2023-0609](https://doi.org/10.1108/MIP-11-2023-0609)
 
