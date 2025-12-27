@@ -41,9 +41,9 @@ author_profile: true
 
 15. Deodhar, S. Y., & Pandey, V. (2008). Degree of instant competition: Estimation of market power in India's instant-coffee market. *Indian Economic Review*, 43(2), 199–215. [https://www.jstor.org/stable/29793916](https://www.jstor.org/stable/29793916)
 
-## Revision and Work in Progress 
+## Revisions and Work in Progress 
 
-1. Value-Chains, Women's Bargaining Power, and Vulnerability to Food Poverty, with H.K. Nagarajan, H. Singh & D. Kumar. (Under review, European Review of Agricultural Economics )
+1. Value-Chains, Women's Bargaining Power, and Vulnerability to Food Poverty, with H.K. Nagarajan, H. Singh & D. Kumar. (Under review, European Review of Agricultural Economics)
 
 2. Decentralized Health Governance, Private Action, and Welfare: Evidence from India, with H.K. Nagarajan, & A. Tagat. (Revise and Resubmit, *Review of Development Economics*)
 

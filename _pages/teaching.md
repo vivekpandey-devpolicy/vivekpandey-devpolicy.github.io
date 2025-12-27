@@ -11,7 +11,7 @@ Core MBA course covering microeconomic principles and applications to business d
 **Field Experiments for Public Policy** (MBA, 2020 - Present)  
 Course on designing and implementing randomized controlled trials for policy evaluation.
 
-**Causal Machine Learning** (2025 - ongoing)  
+**Causal Machine Learning** (2025 - Present)  
 Advanced course on causal inference and machine learning methods for policy evaluation.
 
 **Impact Evaluation** (MBA, 2016 - Present)  

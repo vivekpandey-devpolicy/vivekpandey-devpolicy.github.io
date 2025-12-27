@@ -53,5 +53,6 @@ For a complete list of publications, please visit the [Publications page](/publi
 
 ## Contact
 
-**Email:** vivekp@iima.ac.in  
+**Email:** vivekp@iima.ac.in
+**Telephone:** +91-79-7152 7925
 **Office:** 101, JSW-SoPP, IIM Ahmedabad, Gujarat-380015, India  
